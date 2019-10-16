@@ -1,0 +1,2 @@
+# univariate-exploration
+“Univariate analysis is perhaps the simplest form of statistical analysis. . . The key fact is that only one variable is involved.” Because univariate analysis is so simple, it’s a good place to start in an exploratory analysis. Some questions to consider when getting started can include: How many variables do I have? Do I have missing data? What types of variables do I have?
